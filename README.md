@@ -1,1 +1,1 @@
-# OpenApi-specification
+# Paza Afrika OpenApi Specification
